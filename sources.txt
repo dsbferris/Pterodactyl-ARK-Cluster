@@ -1,0 +1,11 @@
+https://github.com/parkervcp/eggs/tree/master/game_eggs/steamcmd_servers/ark_survival_evolved
+
+
+https://github.com/ign-gg/Pterodactyl-Eggs/tree/master/game_eggs/steamcmd_servers/ark_survival_evolved
+
+
+https://ark.fandom.com/wiki/Server_configuration
+https://ark.fandom.com/wiki/Dedicated_server_setup#Hardware
+https://ark.fandom.com/wiki/Unofficial_server_hosting_guide
+https://ark.fandom.com/wiki/Server_configuration
+https://ark.fandom.com/wiki/Console_commands#DestroyWildDinos
