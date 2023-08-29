@@ -13,7 +13,7 @@ allowed_mounts:
 ### Create Directories on host
 ```
 sudo mkdir -p /var/lib/pterodactyl/mounts/ark/cluster-dir
-sudo mkdir -p /var/lib/pterodactyl/mounts/ark/server-files
+sudo mkdir -p /var/lib/pterodactyl/mounts/ark/server-files/ShooterGame/Content
 ```
 
 ### Import the modified Egg
@@ -21,7 +21,7 @@ Click on Nests and import this modified egg.
 You might want to create your own Nest for this.
 
 ### Create Mounts in Panel
-Default settings!
+Default settings.
 
 - Ark Cluster Dir /var/lib/pterodactyl/mounts/ark/cluster-dir/ /mnt/ark/cluster-dir/
 - Ark ShooterGame Content /var/lib/pterodactyl/mounts/ark/server-files/ShooterGame/Content/ /mnt/ark/server-files/ShooterGame/Content/
