@@ -1,32 +1,5 @@
-# How to Cluster
-
-### Build customized docker container
-`bash build.sh`
-
-### Wings config.yml
-```
-...
-allowed_mounts:
-- /var/lib/pterodactyl/mounts
-...
-```
-### Create Directories on host
-```
-sudo mkdir -p /var/lib/pterodactyl/mounts/ark/cluster-dir
-sudo mkdir -p /var/lib/pterodactyl/mounts/ark/server-files/ShooterGame/Content
-```
-
-### Import the modified Egg
-Click on Nests and import this modified egg.  
-You might want to create your own Nest for this.
-
-### Create Mounts in Panel
-Default settings.
-
-- Ark Cluster Dir /var/lib/pterodactyl/mounts/ark/cluster-dir/ /mnt/ark/cluster-dir/
-- Ark ShooterGame Content /var/lib/pterodactyl/mounts/ark/server-files/ShooterGame/Content/ /mnt/ark/server-files/ShooterGame/Content/
-
-Add Node and Egg to each mounts.
+Follow SINGLE_MACHINE.md or MULTIPLE_MACHINES.md, depending on your needs.
+Then come back here.
 
 ### Create New Server
 - Set Name and Owner.
